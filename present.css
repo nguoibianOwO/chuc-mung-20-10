@@ -152,7 +152,7 @@ html, body {
     transform: translateZ(-2px) translateY(50px);
   }
   .present-box > .side.top .to:after {
-    content: "đố bạn Quin biết";
+    content: "chúc mừng 20/10";
     display: inline-block;
     transform: rotateY(180deg);
     color: #990000;
